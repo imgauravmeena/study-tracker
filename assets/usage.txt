@@ -1,0 +1,16 @@
+🚀 Installation & Usage
+
+1. Clone the repository:
+
+   git clone https://github.com/imgauravmeena/study-tracker.git
+   cd study-tracker
+
+2. Install required packages:
+   
+   pip install customtkinter pillow 
+
+3. Run the App
+
+Thank you and peace out ✌️  
+Siuuu!! 
+       – Gaurav Meena
